@@ -7,7 +7,6 @@ Formally Distributed by EmblocSoft under Official PostgreSQL and pgAdmin4 Licens
 <b>2023 Release 1</b>
 
 https://github.com/EmblocSoft/PostgreSQL/releases/tag/2023_R1
-
 </br>
 For Windows users: </br>
 -  PostgreSQL 15.1.0.1 for Windows  - Included </br>
