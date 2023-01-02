@@ -17,5 +17,5 @@ For Mac OSX users: </br>
 - pgAdmin4   6.17.0.1 for Mac OSX  - Included </br>
 
 </br>
-2023 Release 1 - Download Link</br>
+<b>2023 Release 1 - Download Link</b></br>
 https://github.com/EmblocSoft/PostgreSQL/releases/tag/2023_R1
