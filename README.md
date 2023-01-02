@@ -10,14 +10,14 @@ https://github.com/EmblocSoft/PostgreSQL/releases/tag/2023_R1
 
 For Windows users:
 
-   PostgreSQL 15.1.0.1 for Windows  - Included
+# # #   PostgreSQL 15.1.0.1 for Windows  - Included
 
-   pgAdmin4   6.17.0.1 For Windows  - Included
+# # #   pgAdmin4   6.17.0.1 For Windows  - Included
 
 For Mac OSX users:
 
-PostgreSQL 15.1.0.1 for Mac OSX  - Included
+# # # PostgreSQL 15.1.0.1 for Mac OSX  - Included
 
-pgAdmin4   6.17.0.1 for Mac OSX  - Included
+# # # pgAdmin4   6.17.0.1 for Mac OSX  - Included
 
 
