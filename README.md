@@ -1,6 +1,6 @@
 
 <b>PostgreSQL 2023 Release 2</b></br> 
-Formally Distributed by EmblocSoft under Official PostgreSQL and pgAdmin4 Licenses
+Formally Distributed by EmblocSoft under Official PostgreSQL, pgAdmin4, pgODBC, and pgJDBC Licenses
 
 </br>
 For Windows users: </br>
