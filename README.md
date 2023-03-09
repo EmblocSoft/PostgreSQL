@@ -21,3 +21,5 @@ For Mac OSX users: </br>
 </br>
 <b>Download Link - 2023 Release 2</b></br>
 https://github.com/EmblocSoft/PostgreSQL/releases/tag/2023_R2
+
+Contact us: https://www.emblocsoft.com/ContactUs/en/
