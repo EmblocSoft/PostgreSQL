@@ -1,5 +1,3 @@
-# PostgreSQL
-PostgreSQL Installer Packs 
 
 <b>PostgreSQL 2023 Release 2</b></br> 
 Formally Distributed by EmblocSoft under Official PostgreSQL and pgAdmin4 Licenses
