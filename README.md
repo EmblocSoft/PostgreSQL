@@ -5,7 +5,7 @@ Formally Distributed by EmblocSoft under Official PostgreSQL, pgAdmin4, pgODBC, 
 </br></br>
 The value of this PostgreSQL Data Science Release
 - Speed
-  - To have PostgreSQL up and running and ready to use, in 10 minutes on your computer - GUARANTEED! -- no matter Windows or Mac OSX
+  - To have PostgreSQL up and running and ready to use, in 10 minutes on your computer - GUARANTEED!  no matter Windows or Mac OSX
 - No need to regsiter any expensive Cloud
   - No need to register any Cloud, no need to hand in your credit card information to Cloud Provider
 - Graphical UI and Command CLI
