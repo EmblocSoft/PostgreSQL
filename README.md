@@ -1,6 +1,5 @@
 
 <b>PostgreSQL 2023 Data Science Release 2</b>
-</br></br>  
 Formally Distributed by EmblocSoft under Official PostgreSQL, pgAdmin4, pgODBC, and pgJDBC Licenses respectively
 </br></br>
 The value of this PostgreSQL Data Science Release
