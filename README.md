@@ -9,7 +9,7 @@ The value of this PostgreSQL Data Science Release
 - No need to regsiter any expensive Cloud
   - No need to register any Cloud, no need to hand in your credit card information to Cloud Provider
 - Graphical UI and Command CLI
-  - To have both graphical and command CLI of PostgreSQL administration tool
+  - To have both graphical and command CLI of PostgreSQL administration tools
 - PostgreSQL connectors provided 
   - To have your database connectors ready for your other applications
 
