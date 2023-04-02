@@ -29,6 +29,11 @@ For Mac OSX users: </br>
 -  pgODBC     v13.2.0.1 for Max OSX             - Included </br>
 
 </br>
+For Linux Server users: </br>
+-  PostgreSQL v15.2.0.1 for Rocky/Redhat        - Included </br>
+
+
+</br>
 <b>Download Link</b></br>
 https://github.com/EmblocSoft/PostgreSQL/releases/tag/2023_R2
 </br></br>
