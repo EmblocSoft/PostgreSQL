@@ -1,5 +1,5 @@
 
-<b>The guidebook "PostgreSQL DBA" is published on Amazon</b>
+<b>The guidebook, "PostgreSQL DBA", is published on Amazon, it covers all production versions, from v11, 12, 13, 14, to the latest v15</b>
 
 Amazon search:</br>
 https://www.amazon.com/s?k=PostgreSQL+DBA&crid=17DEFIRQ56U4A&sprefix=postgresql+db%2Caps%2C350&ref=nb_sb_noss_2
