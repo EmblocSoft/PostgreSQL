@@ -13,11 +13,7 @@ https://www.amazon.com/live/video/0365e749066645548e17ee87fd53daaf
 </br>
 </br>
 
-<b>PostgreSQL 2023 Data Science Release 2</b>
-
-Formally Distributed by EmblocSoft under Official PostgreSQL, pgAdmin4, pgODBC, and pgJDBC Licenses respectively
-</br></br>
-The value of this PostgreSQL Data Science Release
+<b>The value of this PostgreSQL Data Science Release</b>
 - Speed
   - To have PostgreSQL up and running and ready to use, in 10 minutes on your computer - GUARANTEED!  no matter Windows or Mac OSX
 - No need to regsiter any expensive Cloud
@@ -27,7 +23,16 @@ The value of this PostgreSQL Data Science Release
 - PostgreSQL connectors provided 
   - To have your database connectors ready for your other applications
 
+</br>
+</br>
+
+<b>PostgreSQL 2023 Data Science Release 2</b>
+
+Formally Distributed by EmblocSoft under Official PostgreSQL, pgAdmin4, pgODBC, and pgJDBC Licenses respectively
 </br></br>
+
+</br>
+</br>
 
 For Windows users: </br>
 -  PostgreSQL v15.2.0.1 for Windows             - Included </br>
@@ -46,7 +51,7 @@ For Mac OSX users: </br>
 For Linux Server users: </br>
 -  PostgreSQL v15.2.0.1 for Rocky/Redhat        - Included </br>
 
-
+</br>
 </br>
 <b>Download Link</b></br>
 https://github.com/EmblocSoft/PostgreSQL/releases/tag/2023_R2
