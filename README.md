@@ -23,6 +23,8 @@ https://www.amazon.com/live/video/0365e749066645548e17ee87fd53daaf
   - To have both graphical and command CLI of PostgreSQL administration tools
 - PostgreSQL connectors provided 
   - To have your database connectors ready for your other applications
+- Production Ready
+  - The latest PostgreSQL v15 is production ready  
 
 </br>
 </br>
