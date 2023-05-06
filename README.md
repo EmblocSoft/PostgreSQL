@@ -5,15 +5,15 @@ PostgreSQL becomes <b> "The Most Loved and Wanted Database"</b>  since 2022 with
 </br>
 </br>
 <b>The value of this PostgreSQL Data Science Edition</b></br>
-- Speed</br>
+Speed</br>
   - To have PostgreSQL up and running and ready to use, in 10 minutes on your computer - GUARANTEED!  no matter Windows or Mac OSX</br>
-- No need to register any expensive Cloud</br>
+No need to register any expensive Cloud</br>
   - No need to register any Cloud, no need to hand in your credit card information to Cloud Provider</br>
-- Graphical UI and Command CLI</br>
+Graphical UI and Command CLI</br>
   - To have both graphical and command CLI of PostgreSQL administration tools</br>
-- PostgreSQL connectors provided </br>
+PostgreSQL connectors provided </br>
   - To have your database connectors ready for your other applications</br>
-- Windows, Mac, and Linux Ready</br>
+Windows, Mac, and Linux Ready</br>
   - The latest PostgreSQL v15.2.0.1 is Windows, Mac, and Linux ready  
 
 </br>
