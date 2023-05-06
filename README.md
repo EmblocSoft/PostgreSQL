@@ -2,7 +2,6 @@
 <b> PostgreSQL Data Science Release v15.2.0.1</b>
 
 </br>
-</br>
 
 <b>The value of this PostgreSQL Data Science Release</b>
 - Speed
