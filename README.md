@@ -1,9 +1,9 @@
 
-<b> PostgreSQL Data Science Release v15.2.0.1</b>
+<b> PostgreSQL Data Science Edition v15.2.0.1</b>
 
 </br>
 
-<b>The value of this PostgreSQL Data Science Release</b>
+<b>The value of this PostgreSQL Data Science Edition</b>
 - Speed
   - To have PostgreSQL up and running and ready to use, in 10 minutes on your computer - GUARANTEED!  no matter Windows or Mac OSX
 - No need to register any expensive Cloud
@@ -18,7 +18,7 @@
 </br>
 </br>
 
-<b>PostgreSQL 2023 Data Science Release 2</b>
+<b>PostgreSQL 2023 Data Science Edition 2</b>
 
 Formally Distributed by EmblocSoft under Official PostgreSQL, pgAdmin4, pgODBC, and pgJDBC Licenses respectively
 </br></br>
