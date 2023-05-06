@@ -17,7 +17,7 @@ https://www.amazon.com/live/video/0365e749066645548e17ee87fd53daaf
 <b>The value of this PostgreSQL Data Science Release</b>
 - Speed
   - To have PostgreSQL up and running and ready to use, in 10 minutes on your computer - GUARANTEED!  no matter Windows or Mac OSX
-- No need to regsiter any expensive Cloud
+- No need to register any expensive Cloud
   - No need to register any Cloud, no need to hand in your credit card information to Cloud Provider
 - Graphical UI and Command CLI
   - To have both graphical and command CLI of PostgreSQL administration tools
