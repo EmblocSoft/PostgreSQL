@@ -1,6 +1,6 @@
 
 <b> POSTGRESQL DATA SCIENCE EDITION v15.2.0.1</b></br>
-PostgreSQL becomes "The Most Loved and Wanted Database" since 2022 with 72.08% - Stack Overflow World Wide Survey 
+PostgreSQL becomes <b> "The Most Loved and Wanted Database"</b>  since 2022 with 72.08% - Stack Overflow World Wide Survey 
 
 </br>
 </br>
