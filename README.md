@@ -12,8 +12,8 @@
   - To have both graphical and command CLI of PostgreSQL administration tools
 - PostgreSQL connectors provided 
   - To have your database connectors ready for your other applications
-- Production Ready
-  - The latest PostgreSQL v15 is production ready  
+- Windows, Mac, and Linux Ready
+  - The latest PostgreSQL v15.2.0.1 is Windows, Mac, and Linux ready  
 
 </br>
 </br>
