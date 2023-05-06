@@ -1,5 +1,5 @@
 
-<b> PostgreSQL Data Science Edition v15.2.0.1</b>
+<b> POSTGRESQL DATA SCIENCE EDITION v15.2.0.1</b>
 
 </br>
 
