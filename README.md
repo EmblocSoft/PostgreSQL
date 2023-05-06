@@ -45,6 +45,11 @@ For Linux Server users: </br>
 
 </br>
 </br>
+<b>Download Link</b></br>
+https://github.com/EmblocSoft/PostgreSQL/releases/tag/2023_R2
+
+</br>
+</br>
 <b>The guidebook, "PostgreSQL DBA", is published on Amazon. </br>
 It covers all production versions, from v11, 12, 13, 14, to the latest v15</b>
 Amazon search:</br>
@@ -60,9 +65,6 @@ https://www.amazon.com/live/video/0365e749066645548e17ee87fd53daaf
 </br>
 
 
-</br>
-</br>
-<b>Download Link</b></br>
-https://github.com/EmblocSoft/PostgreSQL/releases/tag/2023_R2
+
 </br></br>
 Give feedback/contact us: https://www.emblocsoft.com/ContactUs/en/
