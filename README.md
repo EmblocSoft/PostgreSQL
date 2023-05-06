@@ -1,6 +1,5 @@
 
-<b>The guidebook, "PostgreSQL DBA", is published on Amazon. </br>
-It covers all production versions, from v11, 12, 13, 14, to the latest v15</b>
+
 
 </br>
 </br>
@@ -47,6 +46,8 @@ For Linux Server users: </br>
 
 </br>
 </br>
+<b>The guidebook, "PostgreSQL DBA", is published on Amazon. </br>
+It covers all production versions, from v11, 12, 13, 14, to the latest v15</b>
 Amazon search:</br>
 https://www.amazon.com/s?k=PostgreSQL+DBA&crid=17DEFIRQ56U4A&sprefix=postgresql+db%2Caps%2C350&ref=nb_sb_noss_2
 
