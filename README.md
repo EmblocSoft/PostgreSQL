@@ -6,7 +6,7 @@ PostgreSQL becomes <b> "The Most Loved and Wanted Database"</b>  since 2022 with
 </br>
 <b>The value of this PostgreSQL Data Science Edition</b></br>
 Speed</br>
-  - To have PostgreSQL up and running and ready to use, in 10 minutes on your computer - GUARANTEED!  no matter Windows or Mac OSX</br></br>
+  - have your own PostgreSQL up and running in 10 minutes on your computer - GUARANTEED!  no matter Windows or Mac OSX</br></br>
 Cloud Support</br>
   - PostgreSQL Linux can be deployed to Cloud</br></br>
 Graphical UI and Command CLI</br>
