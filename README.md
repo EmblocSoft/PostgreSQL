@@ -1,5 +1,5 @@
 
-<b> POSTGRESQL DATA SCIENCE EDITION v15.2.0.1</b></br>
+<b> POSTGRESQL DATA SCIENCE EDITION </b></br>
 PostgreSQL becomes <b> "The Most Loved and Wanted Database"</b>  since 2022 with 72.08% - Stack Overflow World Wide Survey 
 
 </br>
@@ -14,12 +14,13 @@ Graphical UI and Command CLI</br>
 PostgreSQL connectors provided </br>
   - To have your database connectors ready for your other applications</br></br>
 Windows, Mac, and Linux Ready</br>
-  - The latest PostgreSQL v15.2.0.1 is Windows, Mac, and Linux ready  
+  - v15 The latest PostgreSQL v15.4.0.x  is Windows, Mac, and Linux ready  
+  - v16 The latest PostgreSQL v16.0.0.1  is Windows, Mac, and Linux ready  
 
 </br>
 </br>
 
-<b>PostgreSQL 2023 Data Science Edition 2</b>
+<b>PostgreSQL 2023 Data Science Edition 3</b>
 
 Formally Distributed by EmblocSoft under Official PostgreSQL, pgAdmin4, pgODBC, and pgJDBC Licenses respectively
 </br></br>
@@ -28,21 +29,13 @@ Formally Distributed by EmblocSoft under Official PostgreSQL, pgAdmin4, pgODBC, 
 </br>
 
 For Windows users: </br>
--  PostgreSQL v15.2.0.1 for Windows             - Included </br>
--  pgAdmin4   v6.20.0.1 for Windows             - Included </br>
--  pgODBC     v13.2.0.1 for Windows x86 64-bit  - Included </br>
--  pgODBC     v13.2.0.1 for Windows x86 32-bit  - Included </br>
+-  PostgreSQL v16.0.0.1 for Windows             - Included </br>
+-  PostgreSQL v15.4.0.2 for Windows             - Included </br>
 
 </br>
 For Mac OSX users: </br>
--  PostgreSQL v15.2.0.1 for Mac OSX             - Included </br>
--  pgAdmin4   v6.20.0.1 for Mac OSX             - Included </br>
--  pgJDBC     v42.5.4.1 for Max OSX (jdk 17)    - Included </br>
--  pgODBC     v13.2.0.1 for Max OSX             - Included </br>
-
-</br>
-For Linux Server users: </br>
--  PostgreSQL v15.2.0.1 for Rocky/Redhat        - Included </br>
+-  PostgreSQL v16.0.0.1 for Mac OSX             - Included </br>
+-  PostgreSQL v15.4.0.1 for Mac OSX             - Included </br>
 
 </br>
 </br>
@@ -52,7 +45,6 @@ https://github.com/EmblocSoft/PostgreSQL/releases/tag/2023_R2
 </br>
 </br>
 <b>The "PostgreSQL DBA" guidebook is published on Amazon. </br>
-It covers all production versions, from v11, 12, 13, 14, to the latest v15</b>
 Amazon search:</br>
 https://www.amazon.com/s?k=PostgreSQL+DBA&crid=17DEFIRQ56U4A&sprefix=postgresql+db%2Caps%2C350&ref=nb_sb_noss_2
 
