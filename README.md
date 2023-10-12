@@ -14,8 +14,8 @@ Graphical UI and Command CLI</br>
 PostgreSQL connectors provided </br>
   - To have your database connectors ready for your other applications</br></br>
 Windows, Mac, and Linux Ready</br>
+  - v16 The latest PostgreSQL v16.0.0.1  is Windows, Mac, and Linux ready</br>  
   - v15 The latest PostgreSQL v15.4.0.x  is Windows, Mac, and Linux ready  
-  - v16 The latest PostgreSQL v16.0.0.1  is Windows, Mac, and Linux ready  
 
 </br>
 </br>
