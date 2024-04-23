@@ -50,7 +50,7 @@ https://www.amazon.com/s?k=PostgreSQL+DBA&crid=17DEFIRQ56U4A&sprefix=postgresql+
 </br>
 </br>
 <b>The book's URL:</b></br>
-https://www.amazon.com/PostgreSQL-DBA-v15-Administrators-Availablity/dp/B0C2SVRNJ3/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1682643597&sr=8-3
+https://www.amazon.com/PostgreSQL-DBA-v16-v15-Administrators/dp/B0CN5FD1M8/ref=sr_1_7?crid=2CS4O13F11A5Q
 
 </br>
 </br>
