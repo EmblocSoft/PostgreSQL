@@ -20,7 +20,7 @@ Windows, Mac, and Linux Ready</br>
 </br>
 </br>
 
-<b>PostgreSQL 2024 Data Science Edition 3</b>
+<b>PostgreSQL 2024 Data Science Edition</b>
 
 Formally Distributed by EmblocSoft under Official PostgreSQL, pgAdmin4, pgODBC, and pgJDBC Licenses respectively
 </br></br>
@@ -40,7 +40,7 @@ For Mac OSX users: </br>
 </br>
 </br>
 <b>Download Link</b></br>
-https://github.com/EmblocSoft/PostgreSQL/releases/tag/2023_R2
+https://github.com/EmblocSoft/PostgreSQL/releases/
 
 </br>
 </br>
