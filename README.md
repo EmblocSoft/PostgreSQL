@@ -25,16 +25,12 @@ Formally Distributed by EmblocSoft under Official PostgreSQL, pgAdmin4, pgODBC, 
 </br></br>
 
 </br>
-</br>
-
 For Windows users: </br>
 -  PostgreSQL v16.2.0.1 for Windows             - Included </br>
-
 
 </br>
 For Mac OSX users: </br>
 -  PostgreSQL v16.2.0.1 for Mac OSX             - Included (for both Mac M CPU and Intel CPU) </br>
--  PostgreSQL v15.4.0.1 for Mac OSX             - Included </br>
 
 </br>
 </br>
