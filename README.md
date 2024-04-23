@@ -43,8 +43,13 @@ https://github.com/EmblocSoft/PostgreSQL/releases/
 
 </br>
 </br>
-<b>The "PostgreSQL DBA" guidebook is published on Amazon. </br>
+<b>The "PostgreSQL DBA Handbook" guidebook is published on Amazon </br>
 https://www.amazon.com/PostgreSQL-DBA-v16-v15-Administrators/dp/B0CN5FD1M8
+
+</br>
+</br>
+<b>The "PostgreSQL DA Data Analyst Handbook" guidebook is published on Amazon </br>
+https://www.amazon.com/PostgreSQL-Handbook-Unlocking-Insights-Techniques/dp/B0CTXCQFV3
 
 </br>
 </br>
