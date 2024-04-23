@@ -44,18 +44,7 @@ https://github.com/EmblocSoft/PostgreSQL/releases/
 </br>
 </br>
 <b>The "PostgreSQL DBA" guidebook is published on Amazon. </br>
-Amazon search:</br>
-https://www.amazon.com/s?k=PostgreSQL+DBA&crid=17DEFIRQ56U4A&sprefix=postgresql+db%2Caps%2C350&ref=nb_sb_noss_2
-
-</br>
-</br>
-<b>The book's URL:</b></br>
-https://www.amazon.com/PostgreSQL-DBA-v16-v15-Administrators/dp/B0CN5FD1M8/ref=sr_1_7?crid=2CS4O13F11A5Q
-
-</br>
-</br>
-<b>The book's introduction video:</b></br>
-https://www.amazon.com/live/video/0365e749066645548e17ee87fd53daaf
+https://www.amazon.com/PostgreSQL-DBA-v16-v15-Administrators/dp/B0CN5FD1M8
 
 </br>
 </br>
