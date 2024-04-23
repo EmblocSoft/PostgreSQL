@@ -14,13 +14,13 @@ Graphical UI and Command CLI</br>
 PostgreSQL connectors provided </br>
   - To have your database connectors ready for your other applications</br></br>
 Windows, Mac, and Linux Ready</br>
-  - v16 The latest PostgreSQL: v16.0.0.1 Windows, Mac ready</br>  
+  - v16 The latest PostgreSQL: v16.2.0.1 Windows, Mac ready</br>  
   - v15 The latest PostgreSQL: v15.4.0.x Windows, Mac ready  
 
 </br>
 </br>
 
-<b>PostgreSQL 2023 Data Science Edition 3</b>
+<b>PostgreSQL 2024 Data Science Edition 3</b>
 
 Formally Distributed by EmblocSoft under Official PostgreSQL, pgAdmin4, pgODBC, and pgJDBC Licenses respectively
 </br></br>
@@ -29,12 +29,12 @@ Formally Distributed by EmblocSoft under Official PostgreSQL, pgAdmin4, pgODBC, 
 </br>
 
 For Windows users: </br>
--  PostgreSQL v16.0.0.1 for Windows             - Included </br>
+-  PostgreSQL v16.2.0.1 for Windows             - Included </br>
 -  PostgreSQL v15.4.0.2 for Windows             - Included </br>
 
 </br>
 For Mac OSX users: </br>
--  PostgreSQL v16.0.0.1 for Mac OSX             - Included </br>
+-  PostgreSQL v16.2.0.1 for Mac OSX             - Included (for both Mac M CPU and Intel CPU </br>
 -  PostgreSQL v15.4.0.1 for Mac OSX             - Included </br>
 
 </br>
