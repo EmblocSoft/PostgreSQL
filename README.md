@@ -1,6 +1,6 @@
 
 <b> POSTGRESQL DATA SCIENCE EDITION </b></br>
-PostgreSQL becomes <b> "The Most Loved and Wanted Database"</b>  since 2022 with 72.08% - Stack Overflow World Wide Survey 
+PostgreSQL becomes <b> "The Most Loved and Wanted Database"</b>  since 2024 with 74.5% - Stack Overflow World Wide Survey 2024
 
 </br>
 </br>
@@ -14,23 +14,23 @@ Graphical UI and Command CLI</br>
 PostgreSQL connectors provided </br>
   - To have your database connectors ready for your other applications</br></br>
 Windows, Mac, and Linux Ready</br>
-  - v16 The latest PostgreSQL: v16.2.0.1 Windows, Mac ready</br>  
+  - v17 The latest PostgreSQL: v17 Windows, Mac ready</br>  
 
 </br>
 </br>
 
-<b>PostgreSQL 2024 Data Science Edition</b>
+<b>PostgreSQL 2025 Data Science Edition</b>
 
 Formally Distributed by EmblocSoft under Official PostgreSQL, pgAdmin4, pgODBC, and pgJDBC Licenses respectively
 </br></br>
 
 </br>
 For Windows users: </br>
--  PostgreSQL v16.2.0.1 for Windows             - Included </br>
+-  PostgreSQL v17.0.0.1 for Windows             - Included </br>
 
 </br>
 For Mac OSX users: </br>
--  PostgreSQL v16.2.0.1 for Mac OSX             - Included (for both Mac M CPU and Intel CPU) </br>
+-  PostgreSQL v17.0.0.1 for Mac OSX             - Included (for both Mac M CPU and Intel CPU) </br>
 
 </br>
 </br>
